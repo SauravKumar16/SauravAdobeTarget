@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script>
+  window.targetGlobalSettings = {  
+   cookieDomain: 'sauravkumar16.github.io'
+};
+    </script>
+  <script src="https://assets.adobedtm.com/35066b6d6803/eba81fe0e23f/launch-e462af430d02-development.min.js" async></script>
 <body>
 <h1> Learning Javascript </h1>
 <p1> This is a dummy page that is created for the purpose of learning Javascript. </p1>
